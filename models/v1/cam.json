@@ -1,0 +1,1 @@
+{"model": "cam.onnx", "external": "cam.bin", "size": 2621440, "chunks": ["cam.w0.bin"], "packed": 1310720, "segs": [[0, 2621440, 1]]}
